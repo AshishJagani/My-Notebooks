@@ -1,3 +1,3 @@
 # My-Notebooks
 
-Python Data Types - Basics about paython's Different Data Types
+Python Data Types - Basics about python's Different Data Types
